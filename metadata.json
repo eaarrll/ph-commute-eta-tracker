@@ -1,0 +1,6 @@
+{
+  "name": "Para Po! Commuter Crowd ETA",
+  "description": "Crowdsourced transport ETA and tracking for Jeepneys, UV Express, and provincial buses without GPS trackers. Commuters help commuters wait less.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
